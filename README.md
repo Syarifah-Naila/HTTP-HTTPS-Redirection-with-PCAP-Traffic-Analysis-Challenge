@@ -1,1 +1,1 @@
-# HTTP-HTTPS-Reddirection-with-PCAP-Traffic-Analysis-Challenge
+# HTTP-HTTPS-Redirection-with-PCAP-Traffic-Analysis-Challenge
